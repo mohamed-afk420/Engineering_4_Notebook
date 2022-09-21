@@ -37,7 +37,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 ### Reflection
 ## Launch_Part_3
 ### Assignment Description
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+With this assigmne twe have to push a button and after that the lights blink and the serial monitor counts. It really is just a combination of the first two assigmnets just add a button to it.  
 ### Evidence
 
 ### Wiring
@@ -45,7 +45,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 ### Code
 
 ### Reflection
-
+Actually a pretty difficult assigmnet, I got mixed up in all the other ones but this one made the most sense, (still not done with it) I just have to figure out the code and I should be done.
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
