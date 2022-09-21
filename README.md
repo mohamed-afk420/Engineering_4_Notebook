@@ -6,6 +6,8 @@
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 * [Launch part 1](#Launch_Part_1)
+* [Launch part 2](#Launch_Part_2)
+* [Launch part 3](#Launch_Part_3)
 &nbsp;
 ## Laund_part_1
 ### Assigment Description
