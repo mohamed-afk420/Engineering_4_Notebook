@@ -9,8 +9,8 @@
 * [Launch part 2](#Launch_Part_2)
 * [Launch part 3](#Launch_Part_3)
 &nbsp;
-## Laund_part_1
-### Assigment Description
+## Launch_part_1
+### Assignment Description
 Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 ### Evidence
 ![launch](images/launch.png)
@@ -25,6 +25,27 @@ for x in range(10,0,-1):
 
 ### Reflection
 I was confused at the beginning and tried to do assinment 1 and 2 at once. So I don't fully know if i did the assigment properly, I know for sure that I didn't do assinment two properly though.
+## Launch_Part_2
+### Assignment Description
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+### Evidence
+
+### Wiring
+
+### Code
+
+### Reflection
+## Launch_Part_3
+### Assignment Description
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+### Evidence
+
+### Wiring
+
+### Code
+
+### Reflection
+
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
