@@ -27,7 +27,7 @@ for x in range(10,0,-1):
 I was confused at the beginning and tried to do assinment 1 and 2 at once. So I don't fully know if i did the assigment properly, I know for sure that I didn't do assinment two properly though.
 ## Launch_Part_2
 ### Assignment Description
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
 ### Evidence
 
 ### Wiring
@@ -35,6 +35,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 ### Code
 
 ### Reflection
+The assignment made sense to me once I was about half way through it, before that I had no clue what I was doing. It was an easy thing to do but I still didn't finish it, I got the breadboard and lights and ect. in the right places but I couldn't figure out the code.
 ## Launch_Part_3
 ### Assignment Description
 With this assigmne twe have to push a button and after that the lights blink and the serial monitor counts. It really is just a combination of the first two assigmnets just add a button to it.  
