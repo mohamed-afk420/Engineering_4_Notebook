@@ -24,10 +24,10 @@ for x in range(10,0,-1):
   time.sleep (1)
 
 ### Reflection
-I was confused at the beginning and tried to do assinment 1 and 2 at once. So I don't fully know if i did the assigment properly, I know for sure that I didn't do assinment two properly though.
+I was confused at the beginning and tried to do assignment 1 and 2 at once. So I don't fully know if i did the assigment properly, I know for sure that I didn't do assinment two properly though.
 ## Launch_Part_2
 ### Assignment Description
-
+In this assignment we had make the Pico count and everytime the seocnd went down a red ligfht would blink. Once the countdown ended a green light would turn on to indicate the end.
 ### Evidence
 
 ### Wiring
