@@ -42,11 +42,40 @@ With this assigmne twe have to push a button and after that the lights blink and
 ### Evidence
 
 ### Wiring
-
+r_led = digitalio.DigitalInOut(board.GP0)
+g_led = digitalio.DigitalInOut(board.GP18)
 ### Code
+import board
+import digitalio
+import time
 
+r_led = digitalio.DigitalInOut(board.GP0)
+g_led = digitalio.DigitalInOut(board.GP18)
+
+r_led.direction = digitalio.Direction.OUTPUT 
+g_led.direction = digitalio.Direction.OUTPUT
+
+button = digitalio.DigitalInOut(board.GP17)
+button.direction = digitalio.Direction.INPUT 
+button.pull = digitalio.Pull.DOWN
+
+#led.value = True
+#led.value = False
+while True:
+  if button.value == True:
+    for x in range(10,0,-1):
+      if x > 0:
+
+        r_led.value = True
+        print(x) 
+        time.sleep (0.5)
+        r_led.value = False
+        time.sleep (0.5)
+    print(f"Liftoff!")
+    g_led.value = True 
+ 
 ### Reflection
-Actually a pretty difficult assigmnet, I got mixed up in all the other ones but this one made the most sense, (still not done with it) I just have to figure out the code and I should be done.
+Actually a pretty difficult assigmnet, I got mixed up in all the other ones but this one made the most sense. I finished the assigment but the red led won't blink.
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
