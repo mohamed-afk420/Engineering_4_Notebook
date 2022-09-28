@@ -75,7 +75,7 @@ while True:
     g_led.value = True 
  
 ### Reflection
-Actually a pretty difficult assigmnet, I got mixed up in all the other ones but this one made the most sense. I finished the assigment but the red led won't blink.
+Actually a pretty difficult assigmnet, I got mixed up in all the other ones but this one made the most sense. 
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
