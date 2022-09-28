@@ -31,9 +31,21 @@ In this assignment we had make the Pico count and everytime the seocnd went down
 ### Evidence
 
 ### Wiring
-
+r_led = digitalio.DigitalInOut(board.GP0)
+g_led = digitalio.DigitalInOut(board.GP18)
 ### Code
+if button.value == True:
+    for x in range(10,0,-1):
+      if x > 0:
 
+        r_led.value = True
+        print(x) 
+        time.sleep (0.5)
+        r_led.value = False
+        time.sleep (0.5)
+    print(f"Liftoff!")
+    g_led.value = True 
+ 
 ### Reflection
 The assignment made sense to me once I was about half way through it, before that I had no clue what I was doing. It was an easy thing to do but I still didn't finish it, I got the breadboard and lights and ect. in the right places but I couldn't figure out the code.
 ## Launch_Part_3
