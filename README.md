@@ -29,7 +29,7 @@ I was confused at the beginning and tried to do assignment 1 and 2 at once. So I
 ### Assignment Description
 In this assignment we had make the Pico count and everytime the seocnd went down a red ligfht would blink. Once the countdown ended a green light would turn on to indicate the end.
 ### Evidence
-
+![part2](images/part2.png) 
 ### Wiring
 r_led = digitalio.DigitalInOut(board.GP0)
 g_led = digitalio.DigitalInOut(board.GP18)
@@ -52,7 +52,7 @@ The assignment made sense to me once I was about half way through it, before tha
 ### Assignment Description
 With this assigmne twe have to push a button and after that the lights blink and the serial monitor counts. It really is just a combination of the first two assigmnets just add a button to it.  
 ### Evidence
-
+![part3](images/part3.png) 
 ### Wiring
 r_led = digitalio.DigitalInOut(board.GP0)
 g_led = digitalio.DigitalInOut(board.GP18)
