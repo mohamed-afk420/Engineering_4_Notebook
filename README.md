@@ -56,6 +56,7 @@ With this assigmne twe have to push a button and after that the lights blink and
 ### Wiring
 r_led = digitalio.DigitalInOut(board.GP0)
 g_led = digitalio.DigitalInOut(board.GP18)
+button = digitalio.DigitalInOut(board.GP17)
 ### Code
 import board
 import digitalio
