@@ -119,10 +119,11 @@ while True:
     print("")
     time.sleep(1)
 ### Reflection
+It actually wasn't a hard assigment, I got the hang of it quickly and completed it with ease.
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
-It actually wasn't a hard assigment, I got the hang of it quickly and completed it with ease.
+
 
 Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 
