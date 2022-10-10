@@ -92,13 +92,37 @@ while True:
 Actually a pretty difficult assigmnet, I got mixed up in all the other ones but this one made the most sense. 
 ## Crash_avoidance_part_1
 ### Assignment Description
+In this assigment we had to make an accelerometer continously report the X Y Z values.
 ### Evidence 
+ ![crash11](images/crash11.png)
 ### Wiring 
+sda_pin = board.GP14
+scl_pin = board.GP15
 ### Code
+
+# type: ignore
+import time
+import board
+import adafruit_mpu6050 
+import busio
+sda_pin = board.GP14
+scl_pin = board.GP15
+i2c = busio.I2C(scl_pin, sda_pin)
+
+mpu = adafruit_mpu6050.MPU6050(i2c)
+while True:
+    print(mpu.gyro)
+    print(f"Y Angular velocity: {mpu.gyro[2]}")
+    print(f"X Angular velocity: {mpu.gyro[2]}")
+    print(f"Z Angular velocity: {mpu.gyro[2]} ")
+
+    print("")
+    time.sleep(1)
 ### Reflection
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
+It actually wasn't a hard assigment, I got the hang of it quickly and completed it with ease.
 
 Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 
