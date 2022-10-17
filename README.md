@@ -123,10 +123,54 @@ while True:
 It actually wasn't a hard assigment, I got the hang of it quickly and completed it with ease.
 ## Crash_avoidance_2
 ### Assignment Description
+For this assignment you have to make the X Y Z values continuosly show and after that when the breadboard is tilted 90 degrees in any direction an LED must turn on indicating that it's turned
 ### Evidence
 ### Wiring
+sda_pin = board.GP14
+scl_pin = board.GP15
+i2c = busio.I2C(scl_pin, sda_pin)
+r_led = digitalio.DigitalInOut(board.GP13)
 ### Code
+import time
+import board
+import adafruit_mpu6050 
+import busio
+import digitalio
+sda_pin = board.GP14
+scl_pin = board.GP15
+i2c = busio.I2C(scl_pin, sda_pin)
+r_led = digitalio.DigitalInOut(board.GP13)
+r_led.direction = digitalio.Direction.OUTPUT 
+mpu = adafruit_mpu6050.MPU6050(i2c)
+while True:
+    print(mpu.gyro)
+    print(f"Y Angular velocity: {mpu.acceleration[1]}")
+    print(f"X Angular velocity: {mpu.acceleration[0]}")
+    print(f"Z Angular velocity: {mpu.acceleration[2]} ")
+
+    print("")
+    time.sleep(1)
+    #led.value = True
+    if mpu.acceleration[0]>8.5:
+        r_led.value = True
+        time.sleep(0.5)
+        r_led.value = False
+        
+    if mpu.acceleration[0]<-8.5:
+        r_led.value = True
+        time.sleep(0.5)
+        r_led.value = False
+    if mpu.acceleration[1]>9:
+        r_led.value = True
+        time.sleep(0.5)
+        r_led.value = False
+    if mpu.acceleration[1]<-9:
+        r_led.value = True
+        time.sleep(0.5)
+        r_led.value = False
+
 ### Reflection
+Wasn't as hard as I expected it to be and it was probably my favorite assignment so far.
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
