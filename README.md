@@ -125,6 +125,7 @@ It actually wasn't a hard assigment, I got the hang of it quickly and completed 
 ### Assignment Description
 For this assignment you have to make the X Y Z values continuosly show and after that when the breadboard is tilted 90 degrees in any direction an LED must turn on indicating that it's turned
 ### Evidence
+![crashp2](images/crashp2.png)
 ### Wiring
 sda_pin = board.GP14
 scl_pin = board.GP15
