@@ -9,7 +9,7 @@
 * [Launch part 2](#Launch_Part_2)
 * [Launch part 3](#Launch_Part_3)
 * [Crash avoidance 1](#Crash_avoidance_part_1)
-* [Crash avoidance 2](#Crash_avoidance_part_2)
+* [Crash avoidance ](#Crash_avoidance_part_2)
 &nbsp;
 ## Launch_part_1
 ### Assignment Description
