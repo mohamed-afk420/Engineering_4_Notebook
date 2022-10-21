@@ -102,7 +102,7 @@ sda_pin = board.GP14
 scl_pin = board.GP15
 ### Code
 
-# type: ignore
+
 import time
 import board
 import adafruit_mpu6050 
