@@ -173,6 +173,18 @@ while True:
 
 ### Reflection
 Wasn't as hard as I expected it to be and it was probably my favorite assignment so far.
+## Crash_avoidance_3
+
+### Assignment Description
+
+### Evidence
+
+### Wiring
+
+### Code
+
+### Reflection
+
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
