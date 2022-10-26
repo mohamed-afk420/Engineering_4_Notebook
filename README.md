@@ -184,7 +184,10 @@ This assignment was basically taking the serial monitor and putting it on the li
 ### Evidence
 ![oled](images/oled.png)
 ### Wiring
-
+sda_pin = board.GP14
+scl_pin = board.GP15
+r_led = digitalio.DigitalInOut(board.GP13)
+Rst_pin = board.GP1
 ### Code
 ![crash3](images/crash3.png)
 ### Reflection
