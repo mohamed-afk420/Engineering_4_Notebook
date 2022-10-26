@@ -180,7 +180,7 @@ Wasn't as hard as I expected it to be and it was probably my favorite assignment
 ## Crash_avoidance_3
 
 ### Assignment Description
-This assignment was basically taking the serial monitor and putting it on the little OLED screen. We had to put the X, Y, Z values 
+This assignment was basically taking the serial monitor and putting it on the little OLED screen. We had to put the X, Y, Z values on the OLED and then after tyhat we still had the same code from crash part 2 and we had to make the LED blink when turned 90 degrees.
 ### Evidence
 
 ### Wiring
@@ -192,7 +192,7 @@ This assignment was basically taking the serial monitor and putting it on the li
 ## Landing_area_1
 
 ### Assignment Description 
-
+For this assignment we had to plot points and after that do functions, so this assignment was basically math class but in engineering.
 ### Evidence
 
 ### Wiring
@@ -204,7 +204,7 @@ This assignment was basically taking the serial monitor and putting it on the li
 ## Landing_area_2
 
 ### Assignment Description 
-
+For this assignment we had to plot points like the first Landing Area but in this one we had to plot the points and make a shape on the OLED screen, which to me is pretty cool to me and once you're down with the assignment you can plot your own points and  have fun with it. (Well that's what I would've done)
 ### Evidence
 
 ### Wiring
@@ -216,7 +216,7 @@ This assignment was basically taking the serial monitor and putting it on the li
 ## Morse_code_1
 
 ### Assignment Description 
-
+For this assignment we had to wirte messages and then turn them into morse code. It's really cool becuase unless someone was looking at your computer or knows morse code, they wouldn't have a clue on what you're saying. Also once you type "-q" the code must go away, kind of like a self destruct.
 ### Evidence
 
 ### Wiring
@@ -228,7 +228,7 @@ This assignment was basically taking the serial monitor and putting it on the li
 ## Morse_code_2
 
 ### Assignment Description 
-
+This assignment is the exact same as the first morse code but the only diffrence is that we're adding an LED to it and once you write out your message the LED will act like the button you push for the real morse code things that people used to press back then.
 ### Evidence
 
 ### Wiring
