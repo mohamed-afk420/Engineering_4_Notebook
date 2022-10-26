@@ -182,13 +182,13 @@ Wasn't as hard as I expected it to be and it was probably my favorite assignment
 ### Assignment Description
 This assignment was basically taking the serial monitor and putting it on the little OLED screen. We had to put the X, Y, Z values on the OLED and then after tyhat we still had the same code from crash part 2 and we had to make the LED blink when turned 90 degrees.
 ### Evidence
-
+![oled](images/oled.png)
 ### Wiring
 
 ### Code
-
+![crash3](images/crash3.png)
 ### Reflection
-
+Just finished this one, A lot of writing, wiring and downloading but I got it done. I was rushed a bit so I didn't take the best pictures but I might go to Engineering for bkt and take pictures. But it was nice to use the OLED and it's a neat thing to use.
 ## Landing_area_1
 
 ### Assignment Description 
