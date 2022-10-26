@@ -11,6 +11,10 @@
 * [Crash avoidance 1](#Crash_avoidance_part_1)
 * [Crash avoidance 2](#Crash_avoidance_part_2)
 * [Crash avoidance 3](#Crash_avoidance_part_3)
+* [Landing area 1](#Landing_area_1)
+* [Landing area 1](#Landing_area_2)
+* [Morse code 1](#Morse_code_1)
+* [Morse code 2](#Moese_code_2)
 &nbsp;
 ## Launch_part_1
 ### Assignment Description
@@ -176,6 +180,18 @@ Wasn't as hard as I expected it to be and it was probably my favorite assignment
 ## Crash_avoidance_3
 
 ### Assignment Description
+This assignment was basically taking the serial monitor and putting it on the little OLED screen. We had to put the X, Y, Z values 
+### Evidence
+
+### Wiring
+
+### Code
+
+### Reflection
+
+## Landing_area_1
+
+### Assignment Description 
 
 ### Evidence
 
@@ -185,6 +201,41 @@ Wasn't as hard as I expected it to be and it was probably my favorite assignment
 
 ### Reflection
 
+## Landing_area_2
+
+### Assignment Description 
+
+### Evidence
+
+### Wiring
+
+### Code
+
+### Reflection
+
+## Morse_code_1
+
+### Assignment Description 
+
+### Evidence
+
+### Wiring
+
+### Code
+
+### Reflection
+
+## Morse_code_2
+
+### Assignment Description 
+
+### Evidence
+
+### Wiring
+
+### Code
+
+### Reflection
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
