@@ -228,7 +228,7 @@ For this assignment we had to wirte messages and then turn them into morse code.
 ## Morse_code_2
 
 ### Assignment Description 
-This assignment is the exact same as the first morse code but the only diffrence is that we're adding an LED to it and once you write out your message the LED will act like the button you push for the real morse code things that people used to press back then(The morse code keyer or paddle, whatever its called)
+This assignment is the exact same as the first morse code but the only diffrence is that we're adding an LED to it and once you write out your message the LED will act like the button you push for the real morse code things that people used to press back then.(The morse code keyer or paddle, whatever its called)
 ### Evidence
 
 ### Wiring
