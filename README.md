@@ -12,7 +12,7 @@
 * [Crash avoidance 2](#Crash_avoidance_part_2)
 * [Crash avoidance 3](#Crash_avoidance_part_3)
 * [Landing area 1](#Landing_area_1)
-* [Landing area 1](#Landing_area_2)
+* [Landing area 2](#Landing_area_2)
 * [Morse code 1](#Morse_code_1)
 * [Morse code 2](#Moese_code_2)
 &nbsp;
