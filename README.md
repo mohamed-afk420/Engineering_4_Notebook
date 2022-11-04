@@ -15,6 +15,7 @@
 * [Landing area 2](#Landing_area_2)
 * [Morse code 1](#Morse_code_1)
 * [Morse code 2](#Moese_code_2)
+* [FEA Assignments](#FEA_Assignments)
 &nbsp;
 ## Launch_part_1
 ### Assignment Description
@@ -239,6 +240,9 @@ This assignment is the exact same as the first morse code but the only diffrence
 ### Code
 
 ### Reflection
+## FEA_Assignments
+I just made a new repository for the FEA Assignments and here's the link 
+https://github.com/mohamed-afk420/FEA-/blob/main/README.md
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
