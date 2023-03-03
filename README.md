@@ -253,6 +253,10 @@ FEA Part 1-3 and 4.1-4.3 Onshape Assignments
 ![key](images/key.png)
 ![ring2](images/ring2.png)
 ![ring](images/ring.png)
+![oled](images/force.png)
+![oled](images/force2.png)
+![oled](images/Displace.png)
+![oled](images/Displace2.png)
 ### Reflection
 
 ## Raspberry_Pi_Assignment_Template
