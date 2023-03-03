@@ -14,7 +14,7 @@
 * [Landing area 1](#Landing_area_1)
 * [Landing area 2](#Landing_area_2)
 * [Morse code 1](#Morse_code_1)
-* [Morse code 2](#Moese_code_2)
+* [Morse code 2](#Morse_code_2)
 * [FEA Assignments](#FEA_Assignments)
 * [Q3 Notebook](#Q3_Notebook)
 &nbsp;
