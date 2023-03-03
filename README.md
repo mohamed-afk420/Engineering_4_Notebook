@@ -16,6 +16,7 @@
 * [Morse code 1](#Morse_code_1)
 * [Morse code 2](#Moese_code_2)
 * [FEA Assignments](#FEA_Assignments)
+* [Q3 Notebook](#Q3_Notebook)
 &nbsp;
 ## Launch_part_1
 ### Assignment Description
@@ -243,6 +244,8 @@ This assignment is the exact same as the first morse code but the only diffrence
 ## FEA_Assignments
 I just made a new repository for the FEA Assignments and here's the link 
 https://github.com/mohamed-afk420/FEA-/blob/main/README.md
+## Q3 Notebook
+
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
