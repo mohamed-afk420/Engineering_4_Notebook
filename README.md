@@ -258,7 +258,7 @@ FEA Part 1-3 and 4.1-4.3 Onshape Assignments
 ![oled](images/Displace.png)
 ![oled](images/Displace2.png)
 ### Reflection
-
+For the Onshape Assembly project, we had to create the spinner and I was actually thinking about using the spinner as my PI IN THE SKY project but I liked the water rocket even more. It wasn't that hard but you just had to pay close attention to the instructions. For the FEA assignments, we also had to work together and my design was the second best, my teamate and I managed to get our beam to hold up to seven lbs before snapping. and the second time we fixed the design it held even more and was a succes, but sadly we were second place again :(
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
