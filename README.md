@@ -244,7 +244,7 @@ This assignment is the exact same as the first morse code but the only diffrence
 ## FEA_Assignments
 I just made a new repository for the FEA Assignments and here's the link 
 https://github.com/mohamed-afk420/FEA-/blob/main/README.md
-## Q3 Notebook
+## Q3_Notebook
 ### Assignment Description 
 ### Evidence 
 
