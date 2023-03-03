@@ -98,7 +98,7 @@ while True:
  
 ### Reflection
 Actually a pretty difficult assigmnet, I got mixed up in all the other ones but this one made the most sense. 
-## Crash avoidance_1
+## Crash_avoidance_part_1
 ### Assignment Description
 In this assigment we had to make an accelerometer continously report the X Y Z values.
 ### Evidence 
@@ -128,7 +128,7 @@ while True:
     time.sleep(1)
 ### Reflection
 It actually wasn't a hard assigment, I got the hang of it quickly and completed it with ease.
-## Crash avoidance_2
+## Crash_avoidance_part_2
 ### Assignment Description
 For this assignment you have to make the X Y Z values continuosly show and after that when the breadboard is tilted 90 degrees in any direction an LED must turn on indicating that it's turned
 ### Evidence
@@ -179,7 +179,7 @@ while True:
 
 ### Reflection
 Wasn't as hard as I expected it to be and it was probably my favorite assignment so far.
-## Crash_avoidance_3
+## Crash_avoidance_part_3
 
 ### Assignment Description
 This assignment was basically taking the serial monitor and putting it on the little OLED screen. We had to put the X, Y, Z values on the OLED and then after tyhat we still had the same code from crash part 2 and we had to make the LED blink when turned 90 degrees.
