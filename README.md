@@ -246,11 +246,8 @@ I just made a new repository for the FEA Assignments and here's the link
 https://github.com/mohamed-afk420/FEA-/blob/main/README.md
 ## Q3_Notebook
 ### Assignment Description 
+FEA Part 1-3 and 4.1-4.3 Onshape Assignments
 ### Evidence 
-
-### Wiring
-
-### Code
 
 ### Reflection
 
