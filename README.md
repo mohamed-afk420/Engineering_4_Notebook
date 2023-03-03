@@ -248,7 +248,11 @@ https://github.com/mohamed-afk420/FEA-/blob/main/README.md
 ### Assignment Description 
 FEA Part 1-3 and 4.1-4.3 Onshape Assignments
 ### Evidence 
-
+![wings](images/wings.png)
+![key2](images/key2.png)
+![key](images/key.png)
+![ring2](images/ring2.png)
+![ring](images/ring.png)
 ### Reflection
 
 ## Raspberry_Pi_Assignment_Template
