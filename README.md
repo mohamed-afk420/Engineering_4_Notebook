@@ -259,6 +259,9 @@ https://github.com/mohamed-afk420/FEA-/blob/main/README.md
 ![oled](images/Displace2.png)
 ### Reflection
 For the Onshape Assembly project, we had to create the spinner and I was actually thinking about using the spinner as my PI IN THE SKY project but I liked the water rocket even more. It wasn't that hard but you just had to pay close attention to the instructions. For the FEA assignments, we also had to work together and my design was the second best, my teamate and I managed to get our beam to hold up to seven lbs before snapping. and the second time we fixed the design it held even more and was a succes, but sadly we were second place again :(
+### Evidence
+[FEA Github](https://github.com/mohamed-afk420/FEA-/blob/main/README.md)
+[Teamwork Onshape](https://cvilleschools.onshape.com/documents/b0bfc2b397a2b78509e51f4b/w/564d7b8d8cbdbfffa28d98ac/e/b5e8d958ed753627b2e5adc1)
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
