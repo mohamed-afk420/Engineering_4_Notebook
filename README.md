@@ -248,14 +248,23 @@ https://github.com/mohamed-afk420/FEA-/blob/main/README.md
 ### Assignment Description 
  4.1-4.3 Onshape Assignments and FEA Part1-3
 ### Evidence 
+# Onshape teamwork
 ![wings](images/wings.png)
+# Onshape teamwork
 ![key2](images/key2.png)
+# Onshape teamwork
 ![key](images/key.png)
+# Onshape teamwork
 ![ring2](images/ring2.png)
+# Onshape teamwork
 ![ring](images/ring.png)
+# Force
 ![oled](images/force.png)
+# Force 2
 ![oled](images/force2.png)
+# Displace
 ![oled](images/Displace.png)
+# Displace 2
 ![oled](images/Displace2.png)
 ### Reflection
 For the Onshape Assembly project, we had to create the spinner and I was actually thinking about using the spinner as my PI IN THE SKY project but I liked the water rocket even more. It wasn't that hard but you just had to pay close attention to the instructions. For the FEA assignments, we also had to work together and my design was the second best, my teamate and I managed to get our beam to hold up to seven lbs before snapping. and the second time we fixed the design it held even more and was a succes, but sadly we were second place again :(
