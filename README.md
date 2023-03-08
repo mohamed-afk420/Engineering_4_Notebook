@@ -246,7 +246,7 @@ I just made a new repository for the FEA Assignments and here's the link
 https://github.com/mohamed-afk420/FEA-/blob/main/README.md
 ## Q3_Notebook
 ### Assignment Description 
- 4.1-4.3 Onshape Assignments and FEA Part1-3
+ 4.1-4.3 Onshape Assignments, We had to work togehter and build a spinner on Oshape. 
 ### Evidence 
 # Onshape teamwork
 ![wings](images/wings.png)
@@ -258,6 +258,8 @@ https://github.com/mohamed-afk420/FEA-/blob/main/README.md
 ![ring2](images/ring2.png)
 # Onshape teamwork
 ![ring](images/ring.png)
+### Assignment Description 
+For this assignment we had to make the strongest beam for a challenge we were doing. Whoever's beam was the strongest and could hold the most before going under the ruler won.
 # Force
 ![oled](images/force.png)
 # Force 2
