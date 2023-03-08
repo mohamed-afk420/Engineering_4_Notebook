@@ -3,6 +3,7 @@
 &nbsp;
 
 ## Table of Contents
+* [Q3 Notebook](#Q3_Notebook)
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 * [Launch part 1](#Launch_Part_1)
@@ -16,7 +17,6 @@
 * [Morse code 1](#Morse_code_1)
 * [Morse code 2](#Morse_code_2)
 * [FEA Assignments](#FEA_Assignments)
-* [Q3 Notebook](#Q3_Notebook)
 &nbsp;
 ## Launch_part_1
 ### Assignment Description
