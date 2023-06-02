@@ -67,6 +67,8 @@ r_led = digitalio.DigitalInOut(board.GP0)
 g_led = digitalio.DigitalInOut(board.GP18)
 button = digitalio.DigitalInOut(board.GP17)
 ### Code
+
+```python 
 import board
 import digitalio
 import time
@@ -95,6 +97,7 @@ while True:
         time.sleep (0.5)
     print(f"Liftoff!")
     g_led.value = True 
+ ```
  
 ### Reflection
 Actually a pretty difficult assigmnet, I got mixed up in all the other ones but this one made the most sense. 
@@ -107,7 +110,7 @@ In this assigment we had to make an accelerometer continously report the X Y Z v
 sda_pin = board.GP14
 scl_pin = board.GP15
 ### Code
-
+```python
 
 import time
 import board
@@ -126,6 +129,8 @@ while True:
 
     print("")
     time.sleep(1)
+    ```
+    
 ### Reflection
 It actually wasn't a hard assigment, I got the hang of it quickly and completed it with ease.
 ## Crash_avoidance_part_2
@@ -139,6 +144,7 @@ scl_pin = board.GP15
 i2c = busio.I2C(scl_pin, sda_pin)
 r_led = digitalio.DigitalInOut(board.GP13)
 ### Code
+```python
 import time
 import board
 import adafruit_mpu6050 
@@ -176,7 +182,7 @@ while True:
         r_led.value = True
         time.sleep(0.5)
         r_led.value = False
-
+```
 ### Reflection
 Wasn't as hard as I expected it to be and it was probably my favorite assignment so far.
 ## Crash_avoidance_part_3
