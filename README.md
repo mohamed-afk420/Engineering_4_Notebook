@@ -131,6 +131,7 @@ while True:
     time.sleep(1)
     ```
     
+    
 ### Reflection
 It actually wasn't a hard assigment, I got the hang of it quickly and completed it with ease.
 ## Crash_avoidance_part_2
@@ -139,11 +140,15 @@ For this assignment you have to make the X Y Z values continuosly show and after
 ### Evidence
 ![crashp2](images/crashp2.png)
 ### Wiring
+```python
+
 sda_pin = board.GP14
 scl_pin = board.GP15
 i2c = busio.I2C(scl_pin, sda_pin)
 r_led = digitalio.DigitalInOut(board.GP13)
 ### Code
+```
+
 ```python
 import time
 import board
@@ -182,7 +187,8 @@ while True:
         r_led.value = True
         time.sleep(0.5)
         r_led.value = False
-```
+        ``` 
+        
 ### Reflection
 Wasn't as hard as I expected it to be and it was probably my favorite assignment so far.
 ## Crash_avoidance_part_3
@@ -192,10 +198,12 @@ This assignment was basically taking the serial monitor and putting it on the li
 ### Evidence
 ![oled](images/oled.png)
 ### Wiring
+```python
 sda_pin = board.GP14
 scl_pin = board.GP15
 r_led = digitalio.DigitalInOut(board.GP13)
 Rst_pin = board.GP1
+```
 ### Code
 ![crash3](images/crash3.png)
 ### Reflection
